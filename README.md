@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Image](https://github.com/user-attachments/assets/9df60795-4cc9-4606-a73b-b021941d160f)
+
 The **Netflix Story** project is a data analysis and visualization project that focuses on examining and presenting insights from Netflix-related data. The dataset used for this project can be found on Kaggle.com and provides valuable information about Netflix content.
 
 The primary goal of this project is to leverage Tableau to explore, analyze, and visualize the dataset. By doing so, we aim to uncover trends, patterns, and interesting insights related to Netflix's content library, viewership, and more.
